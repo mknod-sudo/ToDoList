@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etItemText" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="etTodo" type="id" />
+    <item name="rvItems" type="id" />
+</resources>
