@@ -5,7 +5,7 @@ Simple To Do List is an android app that allows building a todo list and basic t
 
 Submitted by: Mehak Kamal
 
-Time spent: 14 hours spent in total
+Time spent: 14 hours 
 
 ## User Stories
 
@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging part of the app was editing each item in the list and updating it, which is something I am still working on. 
 
 ## License
 
